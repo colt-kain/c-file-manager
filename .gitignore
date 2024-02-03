@@ -1,0 +1,5 @@
+# Ignore any compiled files
+bin/
+
+# Ignore object files
+obj/
